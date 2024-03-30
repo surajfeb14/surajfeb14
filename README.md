@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,JavaScript,CSS and C++,JAVA
+- 🌱 I’m currently learning JavaScript and JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
